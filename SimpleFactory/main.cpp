@@ -3,8 +3,7 @@
 #include "operation.h"
 using namespace std;
 
-int main()
-{
+int main() {
 	cout << "Please input operation: " << endl;
 	char op;
 	cin >> op;

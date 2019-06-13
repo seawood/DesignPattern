@@ -1,6 +1,5 @@
 #pragma once
-class Operation
-{
+class Operation {
 	double numberA;
 	double numberB;
 	double result;
